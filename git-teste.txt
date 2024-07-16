@@ -1,1 +1,32 @@
 teste teste
+mais um teste
+
+volta pasta
+cd ..
+
+para navegar entre pastas
+cd
+
+para ver qual pasta estou
+pwd
+
+cria um repositorio
+git init
+
+adiciona um arquivo que deseja, se acrescentar um ponto adiciona todos
+git add .
+
+mostra o status
+git status
+
+comita 
+git commit -m "nome que vai dar pro commit"
+
+mostra o log dos commits
+git log
+
+volta pra versões antias do commit, pegando o nome do commit
+git checkout
+
+volta pro main, ou master
+git checkout main/master
